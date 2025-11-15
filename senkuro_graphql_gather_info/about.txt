@@ -1,0 +1,18 @@
+1-4 gql загружается базовая инфа если вкладка "О тайтле"
+5 если в "главах" то это уже инфа про главы
+5+ если прокрутить то это тоже главы
+
+GraphQL
+gql1: permissions, инфа о юзере
+gql2: информация о тайтле(переводчики, рекомендации, обзор тайтла) - fetchManga() - если не работает обновите sha256
+gql3: viewerUnreadNotifications
+gql4: viewManga access
+gql5+: chapter - fetchMangaChapters()
+
+
+если глав больше 100 и нужно динамическая подгрузка то ответ endCursor в payload -> after
+"pageInfo": {
+                "hasNextPage": true,
+                "endCursor": "gflWAA",
+                "__typename": "PageInfo"
+            },
