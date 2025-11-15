@@ -9,6 +9,7 @@ gql3: viewerUnreadNotifications
 gql4: viewManga access
 gql5+: chapter - fetchMangaChapters()
 
+ch_img_gql3_1-1ch: информация о изображениях главы
 
 если глав больше 100 и нужно динамическая подгрузка то ответ endCursor в payload -> after
 "pageInfo": {
