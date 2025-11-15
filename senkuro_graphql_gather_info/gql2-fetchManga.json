@@ -1,0 +1,939 @@
+{
+    "data": {
+        "manga": {
+            "id": "TUFOR0E6NTE1NzQ0NDMxNTkzNDc2Mjc",
+            "malId": 147692,
+            "muId": "rez09u5",
+            "slug": "ibeon-saeng-eun-gajuga-doegessseubnida",
+            "originalName": {
+                "lang": "JA",
+                "content": "ibeon saeng-eun gajuga doegessseubnida",
+                "__typename": "I18nTitle"
+            },
+            "titles": [
+                {
+                    "lang": "EN",
+                    "content": "In this life, I'll become the head of the family",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "RU",
+                    "content": "Я стану хозяйкой этой жизни",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "JA",
+                    "content": "이번 생은 가주가 되겠습니다",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "KO",
+                    "content": "이번 생은 가주가 되겠습니다",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "ZH",
+                    "content": "今生我会成为家主",
+                    "__typename": "I18nTitle"
+                }
+            ],
+            "alternativeNames": [
+                {
+                    "lang": "EN",
+                    "content": "In This Life, I Will Be the Lord",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "EN",
+                    "content": "Ibeon Saeng-eun Gaju-ga Doegetseumnida",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "EN",
+                    "content": "I'll Be the Matriarch in This Life",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "EN",
+                    "content": "I Shall Master This Family",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "RU",
+                    "content": "На сей раз я — хозяйка этой жизни",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "RU",
+                    "content": "На сей раз я - хозяйка этой жизни",
+                    "__typename": "I18nTitle"
+                },
+                {
+                    "lang": "ZH",
+                    "content": "这一世我来当家主",
+                    "__typename": "I18nTitle"
+                }
+            ],
+            "localizations": [
+                {
+                    "lang": "EN",
+                    "description": [
+                        {
+                            "__typename": "TiptapNodeNestedBlock",
+                            "type": "paragraph",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "The great Lombardi family was once at the top of the empire. After the death of its patriarch, the fate of the family and that of Firentia, born from a Lombardi and a peasant, fall to ruin at the hands of her useless and cruel cousins. But when she’s reincarnated as her seven-year-old self, she’ll work to protect the family’s honor, gain her grandpa Lulac’s favor, and prevent her own father’s death. In this lifetime, there’s only one way for her to win: become the head of their mighty household.",
+                                    "marks": [],
+                                    "__typename": "TiptapNodeText"
+                                }
+                            ]
+                        }
+                    ],
+                    "__typename": "MangaLocalization"
+                },
+                {
+                    "lang": "JA",
+                    "description": null,
+                    "__typename": "MangaLocalization"
+                },
+                {
+                    "lang": "KO",
+                    "description": null,
+                    "__typename": "MangaLocalization"
+                },
+                {
+                    "lang": "RU",
+                    "description": [
+                        {
+                            "__typename": "TiptapNodeNestedBlock",
+                            "type": "paragraph",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "— Фирентия переродилась внебрачной дочерью главы самого влиятельного рода империи. Но однажды её отец умер, родственники выставили её за порог, а те аристократы, с которыми она хорошо ладила, отвернулись от неё. А затем её, подвыпившую, сбил экипаж, и вдруг, открыв глаза, она вернулась в свои семь лет. Там, в прошлой жизни, подобно большому псу, за ней увивался второй принц, который станет врагом всего её рода. — Тия, ты намного красивее меня! — Шутить изволил? — Нет, я правду говорю. Ну и ладно, и второй принц, и родовое имущество, всё это моё! Я обязательно стану хозяйкой этой жизни.",
+                                    "marks": [],
+                                    "__typename": "TiptapNodeText"
+                                }
+                            ]
+                        }
+                    ],
+                    "__typename": "MangaLocalization"
+                },
+                {
+                    "lang": "ZH",
+                    "description": null,
+                    "__typename": "MangaLocalization"
+                }
+            ],
+            "type": "MANHWA",
+            "status": "ONGOING",
+            "formats": [
+                "WEB",
+                "WEBTOON",
+                "IN_COLOR"
+            ],
+            "source": null,
+            "translitionStatus": "IN_PROGRESS",
+            "views": 354203,
+            "score": 9.550000190734863,
+            "totalChaptersViews": 804996,
+            "originCountry": "KR",
+            "releasedOn": "2021-02-28",
+            "completedOn": null,
+            "rating": "SENSITIVE",
+            "chapters": 197,
+            "isLicensed": false,
+            "containExplicitThemes": false,
+            "commentsEnabled": true,
+            "links": [
+                {
+                    "url": "https://page.kakao.com/content/56566288",
+                    "type": "OFFICIAL_SITE",
+                    "service": "UNKNOWN",
+                    "__typename": "CategoryLink"
+                },
+                {
+                    "url": "https://page.kakao.com/home/56566288",
+                    "type": "OFFICIAL_SITE",
+                    "service": "UNKNOWN",
+                    "__typename": "CategoryLink"
+                },
+                {
+                    "url": "https://namu.wiki/w/%EC%9D%B4%EB%B2%88%20%EC%83%9D%EC%9D%80%20%EA%B0%80%EC%A3%BC%EA%B0%80%20%EB%90%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+                    "type": "OTHER",
+                    "service": "UNKNOWN",
+                    "__typename": "CategoryLink"
+                }
+            ],
+            "labels": [
+                {
+                    "id": "TEFCRUw6NzQ2",
+                    "slug": "romance",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Романтика",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "EN",
+                            "content": "Romance",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "gender": null,
+                    "__typename": "Label"
+                },
+                {
+                    "id": "TEFCRUw6NzY3",
+                    "slug": "fantasy",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Фэнтези",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "EN",
+                            "content": "Fantasy",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "gender": null,
+                    "__typename": "Label"
+                },
+                {
+                    "id": "TEFCRUw6NzY4",
+                    "slug": "isekai",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Исекай",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "EN",
+                            "content": "Isekai",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "gender": null,
+                    "__typename": "Label"
+                },
+                {
+                    "id": "TEFCRUw6ODU4",
+                    "slug": "drama",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Драма",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "EN",
+                            "content": "Drama",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "gender": null,
+                    "__typename": "Label"
+                },
+                {
+                    "id": "TEFCRUw6OTQ5",
+                    "slug": "time_manipulation",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Манипуляция временем / Путешествия",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "EN",
+                            "content": "Time Manipulation",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "gender": null,
+                    "__typename": "Label"
+                },
+                {
+                    "id": "TEFCRUw6MTExNw",
+                    "slug": "shoujo",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Сёдзе",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "EN",
+                            "content": "shoujo",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "gender": null,
+                    "__typename": "Label"
+                }
+            ],
+            "series": [
+                {
+                    "id": "U0VSSUVTOjExNzA5MTA4MzgxMjM0MjM3MA",
+                    "slug": "i-shall-master-this-family",
+                    "name": "I Shall Master This Family",
+                    "__typename": "Series"
+                }
+            ],
+            "publishers": [
+                {
+                    "id": "U1RVRElPOjQ2NzgyNDc3NDk4MzM5NDc4",
+                    "slug": "kakaopage",
+                    "name": "KakaoPage",
+                    "titles": [
+                        {
+                            "lang": "EN",
+                            "content": "KakaoPage",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "logotype": null,
+                    "__typename": "Studio"
+                }
+            ],
+            "branches": [
+                {
+                    "id": "TUFOR0FfQlJBTkNIOjUxNTc0NDQzMTU5NDEzMTYz",
+                    "lang": "RU",
+                    "chapters": 197,
+                    "translitionStatus": "IN_PROGRESS",
+                    "manageRestriction": "ALL",
+                    "primaryBranch": true,
+                    "completed": false,
+                    "primaryTeamActivities": [
+                        {
+                            "ranges": [
+                                {
+                                    "start": "123",
+                                    "end": "195",
+                                    "__typename": "BranchActivityRange"
+                                }
+                            ],
+                            "team": {
+                                "id": "VEVBTTo3MjcyMzA5NTExMDA1MDIxNw",
+                                "slug": "bb_manga",
+                                "name": "Bye-bye team",
+                                "activity": "ACTIVE",
+                                "verified": false,
+                                "avatar": {
+                                    "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                    "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                    "original": {
+                                        "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                        "__typename": "ImageSize"
+                                    },
+                                    "__typename": "Image"
+                                },
+                                "__typename": "Team"
+                            },
+                            "__typename": "MangaBranchTeamActivity"
+                        }
+                    ],
+                    "__typename": "MangaBranch",
+                    "teamActivities": [
+                        {
+                            "ranges": [
+                                {
+                                    "start": "0",
+                                    "end": "100",
+                                    "__typename": "BranchActivityRange"
+                                }
+                            ],
+                            "team": {
+                                "id": "VEVBTTo0MDUxNTU0MDc2MTk5MzYzMA",
+                                "slug": "reflymonarchy",
+                                "name": "Монархия Рефлай",
+                                "activity": "ACTIVE",
+                                "verified": false,
+                                "avatar": {
+                                    "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                    "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                    "original": {
+                                        "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                        "__typename": "ImageSize"
+                                    },
+                                    "__typename": "Image"
+                                },
+                                "__typename": "Team"
+                            },
+                            "__typename": "MangaBranchTeamActivity"
+                        },
+                        {
+                            "ranges": [
+                                {
+                                    "start": "101",
+                                    "end": "122",
+                                    "__typename": "BranchActivityRange"
+                                }
+                            ],
+                            "team": {
+                                "id": "VEVBTTo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                                "slug": "witch_bitch",
+                                "name": "Witch Bitch",
+                                "activity": "ACTIVE",
+                                "verified": false,
+                                "avatar": {
+                                    "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                    "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                    "original": {
+                                        "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                        "__typename": "ImageSize"
+                                    },
+                                    "__typename": "Image"
+                                },
+                                "__typename": "Team"
+                            },
+                            "__typename": "MangaBranchTeamActivity"
+                        },
+                        {
+                            "ranges": [
+                                {
+                                    "start": "123",
+                                    "end": "195",
+                                    "__typename": "BranchActivityRange"
+                                }
+                            ],
+                            "team": {
+                                "id": "VEVBTTo3MjcyMzA5NTExMDA1MDIxNw",
+                                "slug": "bb_manga",
+                                "name": "Bye-bye team",
+                                "activity": "ACTIVE",
+                                "verified": false,
+                                "avatar": {
+                                    "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                    "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                    "original": {
+                                        "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                        "__typename": "ImageSize"
+                                    },
+                                    "__typename": "Image"
+                                },
+                                "__typename": "Team"
+                            },
+                            "__typename": "MangaBranchTeamActivity"
+                        }
+                    ],
+                    "viewerCanTranslate": false,
+                    "viewerCanManage": false,
+                    "viewerCanUpload": false
+                }
+            ],
+            "mainCharacters": [
+                {
+                    "id": "Q0hBUkFDVEVSOjY0MDEwMTA4NjY0ODY4Mzc0",
+                    "slug": "@64010108664868374",
+                    "name": "Florentia Lombardi",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Фирентия Ломбарди",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "cover": {
+                        "id": "SU1BR0U6NjQwMjg1NzYyNTI0ODkyMzg",
+                        "blurhash": "TSQa:LsTQ-~VpIu4EgVsc@-qm,pH",
+                        "original": {
+                            "url": "https://mirai.senkuro.net/characters/64010108664868374/covers/15198f63fea6ad3279fc0812fa661f9cd722769a_64028576252489238.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "Character"
+                },
+                {
+                    "id": "Q0hBUkFDVEVSOjY0MDEwMTA5MjY4ODQ4MTUw",
+                    "slug": "@64010109268848150",
+                    "name": "Perez Brivachau Durelli",
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Перес Бривачо Дюрелли",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "cover": {
+                        "id": "SU1BR0U6NjQwMjg1ODQxNTQ1NTc5NzQ",
+                        "blurhash": "TtLXJStR.8X9Rjxt9Foexa~pt7kC",
+                        "original": {
+                            "url": "https://mirai.senkuro.net/characters/64010109268848150/covers/6215e4478f7bf1b731e0cb95e68f9b0204dad154_64028584154557974.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "Character"
+                }
+            ],
+            "mainStaff": [
+                {
+                    "id": "TUFOR0FfU1RBRkY6NjQwMTAyMzY5MDk5MzcwNDg",
+                    "roles": [
+                        "STORY"
+                    ],
+                    "person": {
+                        "id": "UEVSU09OOjY0MDEwMDgzMDEyNTA1MTEw",
+                        "slug": "@64010083012505110",
+                        "name": "Roah Kim",
+                        "titles": [
+                            {
+                                "lang": "RU",
+                                "content": "Роа Ким",
+                                "__typename": "I18nTitle"
+                            }
+                        ],
+                        "cover": null,
+                        "__typename": "Person"
+                    },
+                    "__typename": "MangaPartialStaff"
+                },
+                {
+                    "id": "TUFOR0FfU1RBRkY6NjQwMTAyMzY5MDk4NzE1MTI",
+                    "roles": [
+                        "ART"
+                    ],
+                    "person": {
+                        "id": "UEVSU09OOjY0MDEwMDgyMzkxNzQ4MTE4",
+                        "slug": "@64010082391748118",
+                        "name": "Mon",
+                        "titles": [
+                            {
+                                "lang": "RU",
+                                "content": "",
+                                "__typename": "I18nTitle"
+                            }
+                        ],
+                        "cover": null,
+                        "__typename": "Person"
+                    },
+                    "__typename": "MangaPartialStaff"
+                }
+            ],
+            "cover": {
+                "id": "SU1BR0U6OTE5NDE2Mjk5OTYzMjczMjc",
+                "blurhash": "TUPPZMrD_NbXa}xs.mo|V?M{ogae",
+                "original": {
+                    "height": 1000,
+                    "width": 700,
+                    "url": "https://mirai.senkuro.net/manga/51574443159347627/covers/3176a9ca57b58dd567c9798035d7192b7b3a2163_91941629996327327.jpeg",
+                    "__typename": "ImageSize"
+                },
+                "preview": {
+                    "url": "https://shiro.senkuro.net/2b7hwUoI7fllxB8ZKOdsHOuH8LssgyujWfHwuSrbuGg/rs:fit:175:250/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS81MTU3NDQ0MzE1OTM0NzYyNy9jb3ZlcnMvMzE3NmE5Y2E1N2I1OGRkNTY3Yzk3OTgwMzVkNzE5MmI3YjNhMjE2M185MTk0MTYyOTk5NjMyNzMyNy5qcGVn.jpeg",
+                    "__typename": "ImageSize"
+                },
+                "__typename": "Image",
+                "main": {
+                    "url": "https://shiro.senkuro.net/gukfJD8Q0j9Uj_gd2qGDC7hIr8ev6qOWBaR0RVOdk-c/rs:fit:483:690/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS81MTU3NDQ0MzE1OTM0NzYyNy9jb3ZlcnMvMzE3NmE5Y2E1N2I1OGRkNTY3Yzk3OTgwMzVkNzE5MmI3YjNhMjE2M185MTk0MTYyOTk5NjMyNzMyNy5qcGVn.jpeg",
+                    "__typename": "ImageSize"
+                }
+            },
+            "banner": null,
+            "userBookmarkStatusDistributions": [
+                {
+                    "count": 5433,
+                    "status": "WATCHING",
+                    "__typename": "UserBookmarkStatusDistribution"
+                },
+                {
+                    "count": 1024,
+                    "status": "PLANNING",
+                    "__typename": "UserBookmarkStatusDistribution"
+                },
+                {
+                    "count": 193,
+                    "status": "PAUSED",
+                    "__typename": "UserBookmarkStatusDistribution"
+                },
+                {
+                    "count": 187,
+                    "status": "COMPLETED",
+                    "__typename": "UserBookmarkStatusDistribution"
+                },
+                {
+                    "count": 99,
+                    "status": "DROPPED",
+                    "__typename": "UserBookmarkStatusDistribution"
+                },
+                {
+                    "count": 63,
+                    "status": "REWATCHING",
+                    "__typename": "UserBookmarkStatusDistribution"
+                }
+            ],
+            "scoreDistributions": [
+                {
+                    "count": 540,
+                    "score": 10,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 67,
+                    "score": 9,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 40,
+                    "score": 8,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 13,
+                    "score": 7,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 4,
+                    "score": 6,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 3,
+                    "score": 5,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 2,
+                    "score": 4,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 1,
+                    "score": 3,
+                    "__typename": "MangaScoreDistribution"
+                },
+                {
+                    "count": 3,
+                    "score": 1,
+                    "__typename": "MangaScoreDistribution"
+                }
+            ],
+            "relations": [],
+            "recommendations": [
+                {
+                    "id": "TUFOR0E6MTU5MzYzODgwNjMwMzcxODkx",
+                    "slug": "the-villainous-sister-hides-her-wealth",
+                    "originalName": {
+                        "lang": "JA",
+                        "content": "The Villainous Sister Hides Her Wealth",
+                        "__typename": "I18nTitle"
+                    },
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Злая сестра прячет свое богатство",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "JA",
+                            "content": "악녀 언니가 재력을 숨김",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "status": "ONGOING",
+                    "type": "MANHWA",
+                    "formats": [
+                        "WEB",
+                        "WEBTOON",
+                        "IN_COLOR"
+                    ],
+                    "rating": "QUESTIONABLE",
+                    "score": 8.680000305175781,
+                    "containExplicitThemes": false,
+                    "cover": {
+                        "id": "SU1BR0U6MTU5MzY0MDQyMzYyNzM0MTE3",
+                        "blurhash": "TcNv}mIWRkPqR:aKWCaKslZ$xWxV",
+                        "original": {
+                            "height": 999,
+                            "width": 700,
+                            "url": "https://mirai.senkuro.net/manga/159363880630371891/covers/690ecf0df24b92105569749901fbd7755a66a4ee_159364042362734117.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "preview": {
+                            "url": "https://shiro.senkuro.net/8vqyU817qiX1CQqvJgeffxlC2A89CSFeiQxuqE-VZSI/rs:fit:175:250/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS8xNTkzNjM4ODA2MzAzNzE4OTEvY292ZXJzLzY5MGVjZjBkZjI0YjkyMTA1NTY5NzQ5OTAxZmJkNzc1NWE2NmE0ZWVfMTU5MzY0MDQyMzYyNzM0MTE3LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "viewerBookmark": null,
+                    "__typename": "Manga"
+                },
+                {
+                    "id": "TUFOR0E6MTM4NTAzMDQ2NzM1ODczNTg5",
+                    "slug": "my-bff-is-a-tyrant-in-training",
+                    "originalName": {
+                        "lang": "JA",
+                        "content": "My BFF Is a Tyrant in Training",
+                        "__typename": "I18nTitle"
+                    },
+                    "titles": [
+                        {
+                            "lang": "EN",
+                            "content": "My BFF Is a Tyrant in Training",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "RU",
+                            "content": "Мой друг детства — тиран",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "JA",
+                            "content": "소꿉친구를 폭군으로 키웠습니다",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "status": "ONGOING",
+                    "type": "MANHWA",
+                    "formats": [
+                        "WEB",
+                        "WEBTOON",
+                        "IN_COLOR"
+                    ],
+                    "rating": "QUESTIONABLE",
+                    "score": 8.079999923706055,
+                    "containExplicitThemes": false,
+                    "cover": {
+                        "id": "SU1BR0U6MTM4NTAzMDgxNTMxODE5NTY2",
+                        "blurhash": "TKPF.c01M_B.$$?GI{rri^J:R6V?",
+                        "original": {
+                            "height": 1000,
+                            "width": 700,
+                            "url": "https://mirai.senkuro.net/manga/138503046735873589/covers/ea0d6b18871716564591dc3e3ac14ccc034b8479_138503081531819566.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "preview": {
+                            "url": "https://shiro.senkuro.net/EFRxZEyXIRo06kd7Nf6Ms9U8bpk6Jhb47f6KeyrG0A4/rs:fit:175:250/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS8xMzg1MDMwNDY3MzU4NzM1ODkvY292ZXJzL2VhMGQ2YjE4ODcxNzE2NTY0NTkxZGMzZTNhYzE0Y2NjMDM0Yjg0NzlfMTM4NTAzMDgxNTMxODE5NTY2LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "viewerBookmark": null,
+                    "__typename": "Manga"
+                },
+                {
+                    "id": "TUFOR0E6Mzk2ODUzMDA1MzE3ODIwNzU",
+                    "slug": "supsog-eseo-gongjag-i-juun-geos-eun",
+                    "originalName": {
+                        "lang": "KO",
+                        "content": "Supsog-eseo gongjag-i juun geos-eun",
+                        "__typename": "I18nTitle"
+                    },
+                    "titles": [
+                        {
+                            "lang": "RU",
+                            "content": "Что нашёл герцог в лесу",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "JA",
+                            "content": "숲속에서 공작이 주운 것은",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "status": "FINISHED",
+                    "type": "MANHWA",
+                    "formats": [
+                        "IN_COLOR",
+                        "WEB",
+                        "WEBTOON"
+                    ],
+                    "rating": "GENERAL",
+                    "score": 8.569999694824219,
+                    "containExplicitThemes": false,
+                    "cover": {
+                        "id": "SU1BR0U6NTA0NjQ1OTg4MTMzMzU5NjM",
+                        "blurhash": "TQL;v#?utQ^IxuS5_N9E-p~qIVIU",
+                        "original": {
+                            "height": 1000,
+                            "width": 700,
+                            "url": "https://mirai.senkuro.net/manga/39685300531782075/covers/a3fa9de7f8a7a14f4f097923058ab27acf28c69d_50464598813335963.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "preview": {
+                            "url": "https://shiro.senkuro.net/JzI0PUdNNcfpUF8_K7SmafHMkpVunyQRbMLUvdwHTOA/rs:fit:175:250/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS8zOTY4NTMwMDUzMTc4MjA3NS9jb3ZlcnMvYTNmYTlkZTdmOGE3YTE0ZjRmMDk3OTIzMDU4YWIyN2FjZjI4YzY5ZF81MDQ2NDU5ODgxMzMzNTk2My5qcGVn.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "viewerBookmark": null,
+                    "__typename": "Manga"
+                },
+                {
+                    "id": "TUFOR0E6OTY0OTYxMDQ0ODQzOTc0Nzk",
+                    "slug": "lottery-princess",
+                    "originalName": {
+                        "lang": "KO",
+                        "content": "Lottery Princess",
+                        "__typename": "I18nTitle"
+                    },
+                    "titles": [
+                        {
+                            "lang": "EN",
+                            "content": "Lottery Princess",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "RU",
+                            "content": "Принцесса-лотерея",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "JA",
+                            "content": "로또 황녀님",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "status": "ONGOING",
+                    "type": "MANHWA",
+                    "formats": [
+                        "WEB",
+                        "WEBTOON",
+                        "IN_COLOR"
+                    ],
+                    "rating": "QUESTIONABLE",
+                    "score": 8.350000381469727,
+                    "containExplicitThemes": false,
+                    "cover": {
+                        "id": "SU1BR0U6OTY1MDEwNjQyMTUzMjMwNDc",
+                        "blurhash": "TCOpSx+I#4[jcFPp]q4nd;0._3H?",
+                        "original": {
+                            "height": 1000,
+                            "width": 700,
+                            "url": "https://mirai.senkuro.net/manga/96496104484397479/covers/43ed73ff04ce6bdcee46a8a768c36c1eeb8ed55e_96501064215323047.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "preview": {
+                            "url": "https://shiro.senkuro.net/ZxqOCZSJYBGRYK3v_z4WuiRWASxi6-L189F9doWlkPM/rs:fit:175:250/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS85NjQ5NjEwNDQ4NDM5NzQ3OS9jb3ZlcnMvNDNlZDczZmYwNGNlNmJkY2VlNDZhOGE3NjhjMzZjMWVlYjhlZDU1ZV85NjUwMTA2NDIxNTMyMzA0Ny5qcGVn.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "viewerBookmark": null,
+                    "__typename": "Manga"
+                },
+                {
+                    "id": "TUFOR0E6NDA1NzU5OTc0NTk4NDk2NDk",
+                    "slug": "jeobgeun-bulga-leidi-webtoon",
+                    "originalName": {
+                        "lang": "KO",
+                        "content": "Jeobgeun bulga leidi (webtoon)",
+                        "__typename": "I18nTitle"
+                    },
+                    "titles": [
+                        {
+                            "lang": "EN",
+                            "content": "Solitary Lady",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "RU",
+                            "content": "Недосягаемая леди",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "JA",
+                            "content": "접근 불가 레이디",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "status": "FINISHED",
+                    "type": "MANHWA",
+                    "formats": [
+                        "IN_COLOR",
+                        "WEB",
+                        "WEBTOON"
+                    ],
+                    "rating": "SENSITIVE",
+                    "score": 8.6899995803833,
+                    "containExplicitThemes": false,
+                    "cover": {
+                        "id": "SU1BR0U6NTA5Njg2ODg3MjI5OTM1NTY",
+                        "blurhash": "TGP~TgRiFzY*XmpcPWn$NGOqnOM{",
+                        "original": {
+                            "height": 1000,
+                            "width": 700,
+                            "url": "https://mirai.senkuro.net/manga/40575997459849649/covers/647b7e24838e70abd47c1dea19df36d3f1bfaee9_50968688722993556.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "preview": {
+                            "url": "https://shiro.senkuro.net/URsanrVHF9Lxu0rqRGrOn8SSrXTByU42cOs3ZNnYSco/rs:fit:175:250/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS80MDU3NTk5NzQ1OTg0OTY0OS9jb3ZlcnMvNjQ3YjdlMjQ4MzhlNzBhYmQ0N2MxZGVhMTlkZjM2ZDNmMWJmYWVlOV81MDk2ODY4ODcyMjk5MzU1Ni5qcGVn.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "viewerBookmark": null,
+                    "__typename": "Manga"
+                },
+                {
+                    "id": "TUFOR0E6MTMxMzk4ODY3NDYyNjY5ODcx",
+                    "slug": "looking-for-my-one-night-villainess",
+                    "originalName": {
+                        "lang": "JA",
+                        "content": "Looking for My One-Night Villainess",
+                        "__typename": "I18nTitle"
+                    },
+                    "titles": [
+                        {
+                            "lang": "EN",
+                            "content": "Looking for My One-Night Villainess",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "RU",
+                            "content": "Разыскиваю злодейку, с которой провёл первую брачную ночь",
+                            "__typename": "I18nTitle"
+                        },
+                        {
+                            "lang": "JA",
+                            "content": "첫날밤을 보낸 그 악녀를 찾습니다",
+                            "__typename": "I18nTitle"
+                        }
+                    ],
+                    "status": "ONGOING",
+                    "type": "MANHWA",
+                    "formats": [
+                        "WEB",
+                        "WEBTOON",
+                        "IN_COLOR"
+                    ],
+                    "rating": "QUESTIONABLE",
+                    "score": 8.569999694824219,
+                    "containExplicitThemes": false,
+                    "cover": {
+                        "id": "SU1BR0U6MTMxMzk4ODg5ODc3MDMwNDQ3",
+                        "blurhash": "TTM6@;nhDh9Ex]Em0LoIE2-=xa-T",
+                        "original": {
+                            "height": 1000,
+                            "width": 700,
+                            "url": "https://mirai.senkuro.net/manga/131398867462669871/covers/d42b3c3d75fdb31f612023ed2f9192e107f6ed84_131398889877030447.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "preview": {
+                            "url": "https://shiro.senkuro.net/legJXzndpu1CeO8TJC9FskTt7dkvigyPHOpBB0pua3A/rs:fit:175:250/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS8xMzEzOTg4Njc0NjI2Njk4NzEvY292ZXJzL2Q0MmIzYzNkNzVmZGIzMWY2MTIwMjNlZDJmOTE5MmUxMDdmNmVkODRfMTMxMzk4ODg5ODc3MDMwNDQ3LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "viewerBookmark": null,
+                    "__typename": "Manga"
+                }
+            ],
+            "pinnedComment": null,
+            "viewerVote": null,
+            "viewerBookmark": null,
+            "viewerBookmarkFriends": [],
+            "viewerInBlockedCountry": false,
+            "__typename": "Manga"
+        }
+    }
+}

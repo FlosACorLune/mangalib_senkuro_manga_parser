@@ -1,0 +1,3314 @@
+{
+    "data": {
+        "mangaChapters": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODk5ODMxMzEzNzYzMDU2OTg",
+                        "slug": "189983131376305698",
+                        "name": null,
+                        "number": "195",
+                        "volume": "3",
+                        "createdAt": "2025-08-03T15:12:50.594621",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODg5ODA0MDUwMDc4Mjg0OTI",
+                        "slug": "188980405007828492",
+                        "name": null,
+                        "number": "194",
+                        "volume": "3",
+                        "createdAt": "2025-07-27T17:11:39.100945",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODc5NTUxNzE0MTY4ODQ3NDg",
+                        "slug": "187955171416884748",
+                        "name": null,
+                        "number": "193",
+                        "volume": "3",
+                        "createdAt": "2025-07-20T15:26:52.266979",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODY5NDQ0MDQ1Njc2Mzk1OTc",
+                        "slug": "186944404567639597",
+                        "name": null,
+                        "number": "192",
+                        "volume": "3",
+                        "createdAt": "2025-07-13T16:05:48.279601",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODU5MjAzODI0MDkxMzE1NjU",
+                        "slug": "185920382409131565",
+                        "name": null,
+                        "number": "191",
+                        "volume": "3",
+                        "createdAt": "2025-07-06T14:33:03.504203",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODQ5MTIwNDQyOTY3ODM0MDU",
+                        "slug": "184912044296783405",
+                        "name": null,
+                        "number": "190",
+                        "volume": "3",
+                        "createdAt": "2025-06-29T15:36:07.153373",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODM4OTI0MDE2MjkxODU1NzQ",
+                        "slug": "183892401629185574",
+                        "name": null,
+                        "number": "189",
+                        "volume": "3",
+                        "createdAt": "2025-06-22T14:46:52.764713",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODI4NzYwNjY3MDcxNjI2NjI",
+                        "slug": "182876066707162662",
+                        "name": null,
+                        "number": "188",
+                        "volume": "3",
+                        "createdAt": "2025-06-15T14:30:29.944338",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODE4NjQxMDM2OTI3NDgzMjY",
+                        "slug": "181864103692748326",
+                        "name": null,
+                        "number": "187",
+                        "volume": "3",
+                        "createdAt": "2025-06-08T14:57:32.985375",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxODA4NDQzNDc1NDQwNjE0NTI",
+                        "slug": "180844347544061452",
+                        "name": null,
+                        "number": "186",
+                        "volume": "3",
+                        "createdAt": "2025-06-01T14:07:10.953394",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzk4NDU1ODEyMzYwOTQ0NzE",
+                        "slug": "179845581236094471",
+                        "name": null,
+                        "number": "185",
+                        "volume": "3",
+                        "createdAt": "2025-05-25T16:45:19.849485",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzg4MjA2MTczMzg4OTc5NjQ",
+                        "slug": "178820617338897964",
+                        "name": null,
+                        "number": "184",
+                        "volume": "3",
+                        "createdAt": "2025-05-18T15:03:13.750750",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzc4MTMxMzYyOTA2MjkxNDc",
+                        "slug": "177813136290629147",
+                        "name": null,
+                        "number": "183",
+                        "volume": "3",
+                        "createdAt": "2025-05-11T16:14:48.251999",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzY3OTE4OTIwODY3NjkxNzk",
+                        "slug": "176791892086769179",
+                        "name": null,
+                        "number": "182",
+                        "volume": "3",
+                        "createdAt": "2025-05-04T15:09:39.277170",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzU3NzY1OTk2NTA2MTg2MjA",
+                        "slug": "175776599650618620",
+                        "name": null,
+                        "number": "181",
+                        "volume": "3",
+                        "createdAt": "2025-04-27T15:03:37.829799",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzQ3NjMzNDg2ODI4ODYzNDY",
+                        "slug": "174763348682886346",
+                        "name": null,
+                        "number": "180",
+                        "volume": "3",
+                        "createdAt": "2025-04-20T15:17:53.188706",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzI3MzYzMTAyOTU5NDAzMjI",
+                        "slug": "172736310295940322",
+                        "name": null,
+                        "number": "179",
+                        "volume": "3",
+                        "createdAt": "2025-04-06T15:41:04.158047",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzE3MTUwMDEwMzAwMzY3MDQ",
+                        "slug": "171715001030036704",
+                        "name": null,
+                        "number": "178",
+                        "volume": "3",
+                        "createdAt": "2025-03-30T14:35:16.398950",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNzA3MDMxNzE4MTM5MTk5OTQ",
+                        "slug": "170703171813919994",
+                        "name": null,
+                        "number": "177",
+                        "volume": "3",
+                        "createdAt": "2025-03-23T15:03:39.186078",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjk2OTEzNzE5MDc1OTk2MTA",
+                        "slug": "169691371907599610",
+                        "name": null,
+                        "number": "176",
+                        "volume": "3",
+                        "createdAt": "2025-03-16T15:32:19.445294",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjg2ODMzMzY0NTYyMjgwOTA",
+                        "slug": "168683336456228090",
+                        "name": null,
+                        "number": "175",
+                        "volume": "3",
+                        "createdAt": "2025-03-09T16:38:23.494725",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjc2NjM3NzEwMTQxNTU1MTQ",
+                        "slug": "167663771014155514",
+                        "name": null,
+                        "number": "174",
+                        "volume": "3",
+                        "createdAt": "2025-03-02T15:49:55.137167",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjY2NTkzOTA2NDcwNjE3NTQ",
+                        "slug": "166659390647061754",
+                        "name": null,
+                        "number": "173",
+                        "volume": "3",
+                        "createdAt": "2025-02-23T17:32:17.781605",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjU2MzIzNzQ1NDQwMjY4NzQ",
+                        "slug": "165632374544026874",
+                        "name": null,
+                        "number": "172",
+                        "volume": "3",
+                        "createdAt": "2025-02-16T15:29:48.482502",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjQ2MjExMDAzNTE3Njk4NTA",
+                        "slug": "164621100351769850",
+                        "name": null,
+                        "number": "171",
+                        "volume": "3",
+                        "createdAt": "2025-02-09T16:03:42.094183",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjM2MDMyMTM3NTUzNzA3MjY",
+                        "slug": "163603213755370726",
+                        "name": null,
+                        "number": "170",
+                        "volume": "3",
+                        "createdAt": "2025-02-02T15:31:54.400411",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjI1OTAyMDQ3NDg2NDc2NTQ",
+                        "slug": "162590204748647654",
+                        "name": null,
+                        "number": "169",
+                        "volume": "3",
+                        "createdAt": "2025-01-26T15:48:33.986243",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNjI1ODYyNjM1NzkyODI2NjI",
+                        "slug": "162586263579282662",
+                        "name": null,
+                        "number": "168",
+                        "volume": "3",
+                        "createdAt": "2025-01-26T15:09:24.860062",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNDQzMjk4NjgyNTgxMzM1NTU",
+                        "slug": "144329868258133555",
+                        "name": null,
+                        "number": "167",
+                        "volume": "2",
+                        "createdAt": "2024-09-22T16:28:25.289487",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNDMzMDk0MTQyOTQ2MzYwODM",
+                        "slug": "143309414294636083",
+                        "name": null,
+                        "number": "166",
+                        "volume": "2",
+                        "createdAt": "2024-09-15T15:31:07.325584",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNDIzMDAyMzAyNTgyNzk5ODc",
+                        "slug": "142300230258279987",
+                        "name": null,
+                        "number": "165",
+                        "volume": "2",
+                        "createdAt": "2024-09-08T16:25:46.765212",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNDEyNzY4MzUxNDgyMTk5NTU",
+                        "slug": "141276835148219955",
+                        "name": null,
+                        "number": "164",
+                        "volume": "2",
+                        "createdAt": "2024-09-01T14:59:15.741966",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxNDAyNzAwODgxODcwMzcyMzU",
+                        "slug": "140270088187037235",
+                        "name": null,
+                        "number": "163",
+                        "volume": "2",
+                        "createdAt": "2024-08-25T16:18:07.795561",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzkyNTYzNzA4OTY1ODYyNjA",
+                        "slug": "139256370896586260",
+                        "name": null,
+                        "number": "162",
+                        "volume": "2",
+                        "createdAt": "2024-08-18T16:27:45.206450",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzgyNDA0NzM2OTIxMjg4MjQ",
+                        "slug": "138240473692128824",
+                        "name": null,
+                        "number": "161",
+                        "volume": "2",
+                        "createdAt": "2024-08-11T16:15:43.284961",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzcyMjY4ODQ1NjI4MzA4NjA",
+                        "slug": "137226884562830860",
+                        "name": null,
+                        "number": "160",
+                        "volume": "2",
+                        "createdAt": "2024-08-04T16:26:37.086892",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzYyMDc1MjU5MzM0OTk5NDA",
+                        "slug": "136207525933499940",
+                        "name": null,
+                        "number": "159",
+                        "volume": "2",
+                        "createdAt": "2024-07-28T15:40:11.990637",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzUyMDYxNzUxNzkyOTQyNjQ",
+                        "slug": "135206175179294264",
+                        "name": null,
+                        "number": "158",
+                        "volume": "2",
+                        "createdAt": "2024-07-21T17:52:40.431505",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzMxNjk4NTc3MDAwNTQ1NzI",
+                        "slug": "133169857700054572",
+                        "name": null,
+                        "number": "157",
+                        "volume": "2",
+                        "createdAt": "2024-07-07T16:43:40.630572",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzIxNTYwNTE2NTgxOTY0ODg",
+                        "slug": "132156051658196488",
+                        "name": null,
+                        "number": "156",
+                        "volume": "2",
+                        "createdAt": "2024-06-30T16:52:25.149200",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzExNDQwOTI5MjE5MDY3MzU",
+                        "slug": "131144092921906735",
+                        "name": null,
+                        "number": "155",
+                        "volume": "2",
+                        "createdAt": "2024-06-23T17:19:30.734329",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMzAxMjIxNjIyNzgzMTk2NTQ",
+                        "slug": "130122162278319654",
+                        "name": null,
+                        "number": "154",
+                        "volume": "2",
+                        "createdAt": "2024-06-16T16:07:32.607826",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjkxMDI5NzM5Mzc2NjU1NjE",
+                        "slug": "129102973937665561",
+                        "name": null,
+                        "number": "153",
+                        "volume": "2",
+                        "createdAt": "2024-06-09T15:22:49.016467",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjcwNzMzNTA4NTI4MjI1NTk",
+                        "slug": "127073350852822559",
+                        "name": null,
+                        "number": "152",
+                        "volume": "2",
+                        "createdAt": "2024-05-26T15:20:19.386545",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjYwNjQ4OTY2MjUzNjI0NTI",
+                        "slug": "126064896625362452",
+                        "name": null,
+                        "number": "151",
+                        "volume": "2",
+                        "createdAt": "2024-05-19T16:22:13.821670",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjUwNDU0NTAwMTY1MDczOTQ",
+                        "slug": "125045450016507394",
+                        "name": null,
+                        "number": "150",
+                        "volume": "2",
+                        "createdAt": "2024-05-12T15:34:56.299248",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjQwMjg0NzQ5NzYzODg2MTA",
+                        "slug": "124028474976388610",
+                        "name": null,
+                        "number": "149",
+                        "volume": "2",
+                        "createdAt": "2024-05-05T15:12:11.933010",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjMwMTU3MDMxOTk0OTk3Nzg",
+                        "slug": "123015703199499778",
+                        "name": null,
+                        "number": "148",
+                        "volume": "2",
+                        "createdAt": "2024-04-28T15:31:12.912514",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjIwMDI1MjkyODk1MjA2OTc",
+                        "slug": "122002529289520697",
+                        "name": null,
+                        "number": "147",
+                        "volume": "2",
+                        "createdAt": "2024-04-21T15:46:14.204386",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMjA5ODk5MTQ5NjY4Njk1MjI",
+                        "slug": "120989914966869522",
+                        "name": null,
+                        "number": "146",
+                        "volume": "2",
+                        "createdAt": "2024-04-14T16:06:49.039127",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTk5Nzk1MTg2MjU1OTY5NDY",
+                        "slug": "119979518625596946",
+                        "name": null,
+                        "number": "145",
+                        "volume": "2",
+                        "createdAt": "2024-04-07T16:49:25.883861",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTg5NTkyNjczNDc3MTE1MzM",
+                        "slug": "118959267347711533",
+                        "name": null,
+                        "number": "144",
+                        "volume": "2",
+                        "createdAt": "2024-03-31T15:54:08.734715",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTc5NDY0NjMxMDY5MDk3MTY",
+                        "slug": "117946463106909716",
+                        "name": null,
+                        "number": "143",
+                        "volume": "2",
+                        "createdAt": "2024-03-24T16:12:50.360625",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTY5MjkxMzc4OTI5MzUxODg",
+                        "slug": "116929137892935188",
+                        "name": null,
+                        "number": "142",
+                        "volume": "2",
+                        "createdAt": "2024-03-17T15:46:37.280801",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTU5MTc5MzAwODgxMjE4NzY",
+                        "slug": "115917930088121876",
+                        "name": null,
+                        "number": "141",
+                        "volume": "2",
+                        "createdAt": "2024-03-10T16:21:10.461955",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTQ4OTk0OTc5ODA1NDQ1MjU",
+                        "slug": "114899497980544525",
+                        "name": null,
+                        "number": "140",
+                        "volume": "2",
+                        "createdAt": "2024-03-03T15:43:57.622968",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTQ3OTM4OTYwMDkwOTA1NzM",
+                        "slug": "114793896009090573",
+                        "name": null,
+                        "number": "139",
+                        "volume": "2",
+                        "createdAt": "2024-03-02T22:14:53.945758",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMTA4NDQxNzcyOTM1MjY1NTY",
+                        "slug": "110844177293526556",
+                        "name": null,
+                        "number": "138",
+                        "volume": "2",
+                        "createdAt": "2024-02-04T16:17:58.135679",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDk4MjU3MTIyMDE5NDk2MTU",
+                        "slug": "109825712201949615",
+                        "name": null,
+                        "number": "137",
+                        "volume": "2",
+                        "createdAt": "2024-01-28T15:40:25.632753",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDg4MTUzMzY3NDgzNzY0ODk",
+                        "slug": "108815336748376489",
+                        "name": null,
+                        "number": "136",
+                        "volume": "2",
+                        "createdAt": "2024-01-21T16:23:14.933348",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDc3OTgxMzEwMDUwMjI2MTk",
+                        "slug": "107798131005022619",
+                        "name": null,
+                        "number": "135",
+                        "volume": "2",
+                        "createdAt": "2024-01-14T15:58:13.064377",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDc3OTgwNTkxNDgyMDY0OTE",
+                        "slug": "107798059148206491",
+                        "name": null,
+                        "number": "134",
+                        "volume": "2",
+                        "createdAt": "2024-01-14T15:57:30.234493",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDU3NzQwMzM4OTg4NTY4NTI",
+                        "slug": "105774033898856852",
+                        "name": null,
+                        "number": "133",
+                        "volume": "2",
+                        "createdAt": "2023-12-31T16:50:37.170631",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDQ3NjI2NTYxMjQxMzM3NjE",
+                        "slug": "104762656124133761",
+                        "name": null,
+                        "number": "132",
+                        "volume": "2",
+                        "createdAt": "2023-12-24T17:23:29.045711",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDQ3NjI1Mzg3MzM5NTM0MDk",
+                        "slug": "104762538733953409",
+                        "name": null,
+                        "number": "131",
+                        "volume": "2",
+                        "createdAt": "2023-12-24T17:22:19.078733",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDI3MzEzMTc5ODgzODUxNzA",
+                        "slug": "102731317988385170",
+                        "name": null,
+                        "number": "130",
+                        "volume": "2",
+                        "createdAt": "2023-12-10T17:03:57.169265",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDE3MjkyNzMzMTE2ODI5NjI",
+                        "slug": "101729273311682962",
+                        "name": null,
+                        "number": "129",
+                        "volume": "2",
+                        "createdAt": "2023-12-03T19:09:31.990634",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDA3NjU3NTExMTk1MzY1MzA",
+                        "slug": "100765751119536530",
+                        "name": null,
+                        "number": "128",
+                        "volume": "2",
+                        "createdAt": "2023-11-27T03:37:48.012746",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDA3NjU1NjkzNTUxNzgzODY",
+                        "slug": "100765569355178386",
+                        "name": null,
+                        "number": "127",
+                        "volume": "2",
+                        "createdAt": "2023-11-27T03:35:59.679797",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDA3NjU0NDU4NTgwOTE0MTA",
+                        "slug": "100765445858091410",
+                        "name": null,
+                        "number": "126",
+                        "volume": "2",
+                        "createdAt": "2023-11-27T03:34:46.063023",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDA3NjUyNDMxNTU3MDIxNjI",
+                        "slug": "100765243155702162",
+                        "name": null,
+                        "number": "125",
+                        "volume": "2",
+                        "createdAt": "2023-11-27T03:32:45.241632",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDA3NjUxNTg1NDgyMDE4NzQ",
+                        "slug": "100765158548201874",
+                        "name": null,
+                        "number": "124",
+                        "volume": "2",
+                        "createdAt": "2023-11-27T03:31:54.811167",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjoxMDA3NjUxMjExNjg2MzAxNjI",
+                        "slug": "100765121168630162",
+                        "name": null,
+                        "number": "123",
+                        "volume": "2",
+                        "createdAt": "2023-11-27T03:31:32.537355",
+                        "creator": {
+                            "id": "VVNFUjo3MjcyMzA5NTExMDA1MDIxNw",
+                            "slug": "@72723095110050217",
+                            "name": "Bye-bye team",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NzkzMjI3MDg0ODcyMDEyMDE",
+                                "animation": false,
+                                "blurhash": "KE7nRRj[00t7j[Rj00ay_3",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/72723095110050217/avatars/6525b71b1e86772ca2d3a256b26a74d6a6954ee4_79322708487201201.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MzU5OTg0OTQ0MTY4MTg1NA",
+                        "slug": "93599849441681854",
+                        "name": null,
+                        "number": "122",
+                        "volume": "2",
+                        "createdAt": "2023-10-08T17:10:57.775492",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MzU5OTc0OTM5OTE0Mjg0Ng",
+                        "slug": "93599749399142846",
+                        "name": null,
+                        "number": "121",
+                        "volume": "2",
+                        "createdAt": "2023-10-08T17:09:58.147533",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MzU5OTY0Nzc0NTk5MTEwMg",
+                        "slug": "93599647745991102",
+                        "name": null,
+                        "number": "120",
+                        "volume": "2",
+                        "createdAt": "2023-10-08T17:08:57.553056",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MzU5OTMyMTkzMjQ1NjM4Mg",
+                        "slug": "93599321932456382",
+                        "name": null,
+                        "number": "119",
+                        "volume": "2",
+                        "createdAt": "2023-10-08T17:05:43.353607",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MjE2NDgyMDQxODk3NQ",
+                        "slug": "91942164820418975",
+                        "name": null,
+                        "number": "118",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:43:20.741978",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MjA3NTc4Mzc5OTE5OQ",
+                        "slug": "91942075783799199",
+                        "name": null,
+                        "number": "117",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:42:27.677657",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MjAwMTc3OTQ5OTQyMw",
+                        "slug": "91942001779499423",
+                        "name": null,
+                        "number": "116",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:41:43.565827",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTkzMTgwMTczMTQ4Nw",
+                        "slug": "91941931801731487",
+                        "name": null,
+                        "number": "115",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:41:01.856562",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTg3NTM5NjY2NTc1OQ",
+                        "slug": "91941875396665759",
+                        "name": null,
+                        "number": "114",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:40:28.232364",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTgyMDgwMzY3MDQzMQ",
+                        "slug": "91941820803670431",
+                        "name": null,
+                        "number": "113",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:39:55.695655",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTc1MzI0MTc1NjA2Mw",
+                        "slug": "91941753241756063",
+                        "name": null,
+                        "number": "112",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:39:15.422368",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTY5NTIyNjE0MzEzNQ",
+                        "slug": "91941695226143135",
+                        "name": null,
+                        "number": "111",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:38:40.841193",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTYyNTg1MjM1NDk3NQ",
+                        "slug": "91941625852354975",
+                        "name": null,
+                        "number": "110",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:37:59.491135",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTU2MjA4MjIyMjQ5NQ",
+                        "slug": "91941562082222495",
+                        "name": null,
+                        "number": "109",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:37:21.487445",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTUwNDc4Nzk2NDMxOQ",
+                        "slug": "91941504787964319",
+                        "name": null,
+                        "number": "108",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:36:47.333506",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTQ1MTY1NDU4Njc4Mw",
+                        "slug": "91941451654586783",
+                        "name": null,
+                        "number": "107",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:36:15.669675",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTQwMTc3NTkyMzYxNQ",
+                        "slug": "91941401775923615",
+                        "name": null,
+                        "number": "106",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:35:45.936677",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTM0OTY2NTgyNTE4Mw",
+                        "slug": "91941349665825183",
+                        "name": null,
+                        "number": "105",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:35:14.871535",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTMwNDk1NDU0NDU0Mw",
+                        "slug": "91941304954544543",
+                        "name": null,
+                        "number": "104",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:34:48.220180",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTI1NzEwNTk5MDA0Nw",
+                        "slug": "91941257105990047",
+                        "name": null,
+                        "number": "103",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:34:19.709465",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTIwNDQ3NTg2MzQ1NQ",
+                        "slug": "91941204475863455",
+                        "name": null,
+                        "number": "102",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:33:48.339725",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo5MTk0MTE1MjUxNjc1OTk2Nw",
+                        "slug": "91941152516759967",
+                        "name": null,
+                        "number": "101",
+                        "volume": "2",
+                        "createdAt": "2023-09-27T06:33:17.362291",
+                        "creator": {
+                            "id": "VVNFUjo1OTI0MzQ3NDQ4NjA1OTQyMQ",
+                            "slug": "@59243474486059421",
+                            "name": "Witch Bitch",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6ODEwOTExNjI1Mjk2MjAzNzI",
+                                "animation": false,
+                                "blurhash": "K68p.Xt85Q~qNGMxM{WBWB",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/59243474486059421/avatars/839bfdd5b3f300b0268b0af0364eb7a298b6e8d9_81091162529620372.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo2MDI1NDgyNzY5OTAwMzc3OQ",
+                        "slug": "60254827699003779",
+                        "name": null,
+                        "number": "100",
+                        "volume": "1",
+                        "createdAt": "2023-02-20T16:17:56.016553",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo2MDEwODA5NzQyMjY0NzcxMw",
+                        "slug": "60108097422647713",
+                        "name": null,
+                        "number": "99",
+                        "volume": "1",
+                        "createdAt": "2023-02-19T16:00:17.955747",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1ODY3ODg2MzQ3MDgxMzU4Mw",
+                        "slug": "58678863470813583",
+                        "name": null,
+                        "number": "98",
+                        "volume": "1",
+                        "createdAt": "2023-02-09T19:22:08.130731",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1ODY3NzY1NjY2ODg4OTQ4Nw",
+                        "slug": "58677656668889487",
+                        "name": null,
+                        "number": "97",
+                        "volume": "1",
+                        "createdAt": "2023-02-09T19:10:08.820412",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1NDYzMTQ5MTg0NTUxMzY1Mg",
+                        "slug": "54631491845513652",
+                        "name": null,
+                        "number": "96",
+                        "volume": "1",
+                        "createdAt": "2023-01-12T21:15:06.657598",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                }
+            ],
+            "pageInfo": {
+                "hasNextPage": true,
+                "endCursor": "gflWAA",
+                "__typename": "PageInfo"
+            },
+            "__typename": "MangaChapterConnection"
+        }
+    }
+}

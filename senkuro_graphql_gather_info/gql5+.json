@@ -1,0 +1,3215 @@
+{
+    "data": {
+        "mangaChapters": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MzQ3Njk4MTY1MTU2MjkxMQ",
+                        "slug": "53476981651562911",
+                        "name": null,
+                        "number": "95",
+                        "volume": "1",
+                        "createdAt": "2023-01-04T22:06:04.952661",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1Mjg2NjM4NTI3NzExNjgzMg",
+                        "slug": "52866385277116832",
+                        "name": null,
+                        "number": "94",
+                        "volume": "1",
+                        "createdAt": "2022-12-31T17:00:21.155591",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MjQ1MTM1MDIzOTI3MzM5MQ",
+                        "slug": "52451350239273391",
+                        "name": null,
+                        "number": "93",
+                        "volume": "1",
+                        "createdAt": "2022-12-28T20:17:20.996391",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTk3NDY5NTE1NDYzOTI1Nw",
+                        "slug": "51974695154639257",
+                        "name": null,
+                        "number": "92",
+                        "volume": "1",
+                        "createdAt": "2022-12-25T13:22:12.428789",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0NDEzMzI1NzY0Mw",
+                        "slug": "51585844133257643",
+                        "name": null,
+                        "number": "91",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:19.151895",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MzkxNTE1MzgzNQ",
+                        "slug": "51585843915153835",
+                        "name": null,
+                        "number": "90",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:19.021298",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MzQyODYxNDU3MQ",
+                        "slug": "51585843428614571",
+                        "name": null,
+                        "number": "89",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:18.739779",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MzIxMDUxMDc2Mw",
+                        "slug": "51585843210510763",
+                        "name": null,
+                        "number": "88",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:18.600023",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0Mjk3NTYyOTczOQ",
+                        "slug": "51585842975629739",
+                        "name": null,
+                        "number": "87",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:18.467230",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0Mjc0MDc0ODcxNQ",
+                        "slug": "51585842740748715",
+                        "name": null,
+                        "number": "86",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:18.329900",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MjI3MDk4NjY2Nw",
+                        "slug": "51585842270986667",
+                        "name": null,
+                        "number": "85",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:18.043504",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MTg4NTExMDY5OQ",
+                        "slug": "51585841885110699",
+                        "name": null,
+                        "number": "84",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:17.818215",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MTY1MDIyOTY3NQ",
+                        "slug": "51585841650229675",
+                        "name": null,
+                        "number": "83",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:17.676375",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MTQxNTM0ODY1MQ",
+                        "slug": "51585841415348651",
+                        "name": null,
+                        "number": "82",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:17.538792",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTg0MTE2MzY5MDQxMQ",
+                        "slug": "51585841163690411",
+                        "name": null,
+                        "number": "81",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:59:17.386421",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MzY3NTUwNTA2Nw",
+                        "slug": "51585043675505067",
+                        "name": null,
+                        "number": "80",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:22.049404",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MzQyMzg0NjgyNw",
+                        "slug": "51585043423846827",
+                        "name": null,
+                        "number": "79",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:21.897732",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MzE4ODk2NTgwMw",
+                        "slug": "51585043188965803",
+                        "name": null,
+                        "number": "78",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:21.756332",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MjkzNzMwNzU2Mw",
+                        "slug": "51585042937307563",
+                        "name": null,
+                        "number": "77",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:21.609018",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MjcxOTIwMzc1NQ",
+                        "slug": "51585042719203755",
+                        "name": null,
+                        "number": "76",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:21.474224",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MjQ4NDMyMjczMQ",
+                        "slug": "51585042484322731",
+                        "name": null,
+                        "number": "75",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:21.339575",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MjIxNTg4NzI3NQ",
+                        "slug": "51585042215887275",
+                        "name": null,
+                        "number": "74",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:21.176231",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MTk4MTAwNjI1MQ",
+                        "slug": "51585041981006251",
+                        "name": null,
+                        "number": "73",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:21.033495",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NTA0MTY3OTAxNjM2Mw",
+                        "slug": "51585041679016363",
+                        "name": null,
+                        "number": "72",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:51:20.854400",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwNzM4MjgxMTA1MQ",
+                        "slug": "51584407382811051",
+                        "name": null,
+                        "number": "71",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:45:02.784836",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwNjk0NjYwMzQzNQ",
+                        "slug": "51584406946603435",
+                        "name": null,
+                        "number": "70",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:45:02.524715",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwNjQ5MzYxODYwMw",
+                        "slug": "51584406493618603",
+                        "name": null,
+                        "number": "69",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:45:02.251832",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwNjAwNzA3OTMzOQ",
+                        "slug": "51584406007079339",
+                        "name": null,
+                        "number": "68",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:45:01.962689",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwNTcyMTg2NjY2Nw",
+                        "slug": "51584405721866667",
+                        "name": null,
+                        "number": "67",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:45:01.796248",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwMjE5ODY1MTMwNw",
+                        "slug": "51584402198651307",
+                        "name": null,
+                        "number": "66",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:59.698890",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwMTc2MjQ0MzY5MQ",
+                        "slug": "51584401762443691",
+                        "name": null,
+                        "number": "65",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:59.431040",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwMTUyNzU2MjY2Nw",
+                        "slug": "51584401527562667",
+                        "name": null,
+                        "number": "64",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:59.298982",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwMTA5MTM1NTA1MQ",
+                        "slug": "51584401091355051",
+                        "name": null,
+                        "number": "63",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:59.034608",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwMDg1NjQ3NDAyNw",
+                        "slug": "51584400856474027",
+                        "name": null,
+                        "number": "62",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:58.897236",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwMDQwMzQ4OTE5NQ",
+                        "slug": "51584400403489195",
+                        "name": null,
+                        "number": "61",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:58.627222",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDQwMDE2ODYwODE3MQ",
+                        "slug": "51584400168608171",
+                        "name": null,
+                        "number": "60",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:58.488938",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDM5OTY5ODg0NjEyMw",
+                        "slug": "51584399698846123",
+                        "name": null,
+                        "number": "59",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:58.205110",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDM5OTQxMzYzMzQ1MQ",
+                        "slug": "51584399413633451",
+                        "name": null,
+                        "number": "58",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:58.038755",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDM5ODgyNjQzMDg5MQ",
+                        "slug": "51584398826430891",
+                        "name": null,
+                        "number": "57",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:57.686601",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDM5ODMwNjMzNzE5NQ",
+                        "slug": "51584398306337195",
+                        "name": null,
+                        "number": "56",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:57.377538",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDM5ODAzNzkwMTczOQ",
+                        "slug": "51584398037901739",
+                        "name": null,
+                        "number": "55",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:57.213339",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4NDM5NzM2NjgxMzA5OQ",
+                        "slug": "51584397366813099",
+                        "name": null,
+                        "number": "54",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:44:56.817816",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE4MjMxMDQ5ODczMQ",
+                        "slug": "51583182310498731",
+                        "name": null,
+                        "number": "53",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:52.580697",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE4MTg1NzUxMzg5OQ",
+                        "slug": "51583181857513899",
+                        "name": null,
+                        "number": "52",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:52.315284",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE4MDg4NDQzNTM3MQ",
+                        "slug": "51583180884435371",
+                        "name": null,
+                        "number": "51",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:51.737130",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE4MDQzMTQ1MDUzOQ",
+                        "slug": "51583180431450539",
+                        "name": null,
+                        "number": "50",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:51.461287",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE3ODIwMDA4MDgxMQ",
+                        "slug": "51583178200080811",
+                        "name": null,
+                        "number": "49",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:50.134546",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE3MjgxNDU5NDQ3NQ",
+                        "slug": "51583172814594475",
+                        "name": null,
+                        "number": "48",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:46.923115",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE3MTgyNDczODczMQ",
+                        "slug": "51583171824738731",
+                        "name": null,
+                        "number": "47",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:46.334592",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE2OTg2MTgwNDQ1OQ",
+                        "slug": "51583169861804459",
+                        "name": null,
+                        "number": "46",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:45.166077",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE2OTM1ODQ4Nzk3OQ",
+                        "slug": "51583169358487979",
+                        "name": null,
+                        "number": "45",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:44.869214",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE2ODQ2OTI5NTUzMQ",
+                        "slug": "51583168469295531",
+                        "name": null,
+                        "number": "44",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:44.330560",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE2NzMxMTY2NzYyNw",
+                        "slug": "51583167311667627",
+                        "name": null,
+                        "number": "43",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:43.644512",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE2Njc3NDc5NjcxNQ",
+                        "slug": "51583166774796715",
+                        "name": null,
+                        "number": "42",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:43.329059",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE2NTMxNTE3ODkyMw",
+                        "slug": "51583165315178923",
+                        "name": null,
+                        "number": "41",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:42.450016",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MzE2NDc0NDc1MzU3OQ",
+                        "slug": "51583164744753579",
+                        "name": null,
+                        "number": "40",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:32:42.111155",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjQ1MTA3NTUzOTM3MQ",
+                        "slug": "51582451075539371",
+                        "name": null,
+                        "number": "39",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:25:36.734855",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjQ1MDg1NzQzNTU2Mw",
+                        "slug": "51582450857435563",
+                        "name": null,
+                        "number": "38",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:25:36.601381",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjQ1MDYzOTMzMTc1NQ",
+                        "slug": "51582450639331755",
+                        "name": null,
+                        "number": "37",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:25:36.471646",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjQ1MDM4NzY3MzUxNQ",
+                        "slug": "51582450387673515",
+                        "name": null,
+                        "number": "36",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:25:36.323591",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNjI0MzI4ODQ5MQ",
+                        "slug": "51582236243288491",
+                        "name": null,
+                        "number": "35",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:28.689492",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNTk5MTYzMDI1MQ",
+                        "slug": "51582235991630251",
+                        "name": null,
+                        "number": "34",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:28.533189",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNTc1Njc0OTIyNw",
+                        "slug": "51582235756749227",
+                        "name": null,
+                        "number": "33",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:28.395703",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNTUyMTg2ODIwMw",
+                        "slug": "51582235521868203",
+                        "name": null,
+                        "number": "32",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:28.256401",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNTI4Njk4NzE3OQ",
+                        "slug": "51582235286987179",
+                        "name": null,
+                        "number": "31",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:28.111025",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNTAwMTc3NDUwNw",
+                        "slug": "51582235001774507",
+                        "name": null,
+                        "number": "30",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:27.943089",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNDY5OTc4NDYxOQ",
+                        "slug": "51582234699784619",
+                        "name": null,
+                        "number": "29",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:27.766904",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNDM5Nzc5NDczMQ",
+                        "slug": "51582234397794731",
+                        "name": null,
+                        "number": "28",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:27.582400",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MjIzNDE0NjEzNjQ5MQ",
+                        "slug": "51582234146136491",
+                        "name": null,
+                        "number": "27",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:23:27.433366",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTc5Mzc3Nzc3MDkyMw",
+                        "slug": "51581793777770923",
+                        "name": null,
+                        "number": "26",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:19:04.953131",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTc5MzMyNDc4NjA5MQ",
+                        "slug": "51581793324786091",
+                        "name": null,
+                        "number": "25",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:19:04.682669",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTY5Mzc1MjAwOTEzMQ",
+                        "slug": "51581693752009131",
+                        "name": null,
+                        "number": "24",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:18:05.336729",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTY5MzI5OTAyNDI5OQ",
+                        "slug": "51581693299024299",
+                        "name": null,
+                        "number": "23",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:18:05.065172",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTY5MjM3NjI3NzQxOQ",
+                        "slug": "51581692376277419",
+                        "name": null,
+                        "number": "22",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:18:04.517594",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTY5MDA0NDI0NDM5NQ",
+                        "slug": "51581690044244395",
+                        "name": null,
+                        "number": "21",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:18:03.121515",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQ0MzI1MTM5NzAzNQ",
+                        "slug": "51581443251397035",
+                        "name": null,
+                        "number": "20",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:36.027937",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQ0MjM2MjIwNDU4Nw",
+                        "slug": "51581442362204587",
+                        "name": null,
+                        "number": "19",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:35.494593",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQ0MTAwMzI1MDA5MQ",
+                        "slug": "51581441003250091",
+                        "name": null,
+                        "number": "18",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:34.686355",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzNTYzNDU0MDk3MQ",
+                        "slug": "51581435634540971",
+                        "name": null,
+                        "number": "17",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:31.482754",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzNTIzMTg4Nzc4Nw",
+                        "slug": "51581435231887787",
+                        "name": null,
+                        "number": "16",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:31.242349",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzNDM3NjI0OTc3MQ",
+                        "slug": "51581434376249771",
+                        "name": null,
+                        "number": "15",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:30.731288",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzMzg1NjE1NjA3NQ",
+                        "slug": "51581433856156075",
+                        "name": null,
+                        "number": "14",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:30.428980",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzMzQxOTk0ODQ1OQ",
+                        "slug": "51581433419948459",
+                        "name": null,
+                        "number": "13",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:30.165136",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzMjQ0Njg2OTkzMQ",
+                        "slug": "51581432446869931",
+                        "name": null,
+                        "number": "12",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:29.580419",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzMTk2MDMzMDY2Nw",
+                        "slug": "51581431960330667",
+                        "name": null,
+                        "number": "11",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:29.294093",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQzMDAzMDk1MDgyNw",
+                        "slug": "51581430030950827",
+                        "name": null,
+                        "number": "10",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:28.144811",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQyODY3MTk5NjMzMQ",
+                        "slug": "51581428671996331",
+                        "name": null,
+                        "number": "9",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:27.331049",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQyODEzNTEyNTQxOQ",
+                        "slug": "51581428135125419",
+                        "name": null,
+                        "number": "8",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:27.010668",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQyNzI3OTQ4NzQwMw",
+                        "slug": "51581427279487403",
+                        "name": null,
+                        "number": "7",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:26.501677",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQyNjg2MDA1NzAwMw",
+                        "slug": "51581426860057003",
+                        "name": null,
+                        "number": "6",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:26.250263",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MTQyNTkzNzMxMDEyMw",
+                        "slug": "51581425937310123",
+                        "name": null,
+                        "number": "5",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:15:25.700404",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MDU1NDQyODA0Nzc4Nw",
+                        "slug": "51580554428047787",
+                        "name": null,
+                        "number": "4",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:06:46.247092",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MDU1MTIyMzU5OTUzMQ",
+                        "slug": "51580551223599531",
+                        "name": null,
+                        "number": "3",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:06:44.334523",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MDU1MDUwMjE3OTI0Mw",
+                        "slug": "51580550502179243",
+                        "name": null,
+                        "number": "2",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:06:43.908517",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MDU0OTYyOTc2NDAxMQ",
+                        "slug": "51580549629764011",
+                        "name": null,
+                        "number": "1",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:06:43.388795",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MDU0OTEwOTY3MDMxNQ",
+                        "slug": "51580549109670315",
+                        "name": "Пролог (часть 2)",
+                        "number": "0.1",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:06:43.078296",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                },
+                {
+                    "node": {
+                        "id": "TUFOR0FfQ0hBUFRFUjo1MTU4MDU0ODM4ODI1MDAyNw",
+                        "slug": "51580548388250027",
+                        "name": "Пролог (часть 1)",
+                        "number": "0",
+                        "volume": "1",
+                        "createdAt": "2022-12-22T20:06:42.643207",
+                        "creator": {
+                            "id": "VVNFUjo0MDUxNTU0MDc2MTk5MzYzMA",
+                            "slug": "@40515540761993630",
+                            "name": "Монархия Рефлай",
+                            "verified": true,
+                            "bot": true,
+                            "level": 0,
+                            "avatar": {
+                                "id": "SU1BR0U6NDA4ODIwNTE2OTU1MzQ0OTc",
+                                "animation": false,
+                                "blurhash": "KB7^l6od4;xsoLR*0Na#?F",
+                                "original": {
+                                    "url": "https://mirai.senkuro.net/teams/40515540761993630/avatars/3db898a45c4414ef4b96caceeb4563e0f439cb48_40882051695534497.jpeg",
+                                    "__typename": "ImageSize"
+                                },
+                                "__typename": "Image"
+                            },
+                            "frame": null,
+                            "status": null,
+                            "__typename": "User"
+                        },
+                        "__typename": "MangaChapter"
+                    },
+                    "__typename": "MangaChapterEdge"
+                }
+            ],
+            "pageInfo": {
+                "hasNextPage": false,
+                "endCursor": "gfkAAA",
+                "__typename": "PageInfo"
+            },
+            "__typename": "MangaChapterConnection"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+data|mangaChapters|edges[0]|node|slug = 190051360857671202 1-2 глава
+data|mangaChapters|edges[0]|node|number
+data|mangaChapters|edges[0]|node|volume
+data|mangaChapters|edges[0]|node|createdAt
+
+
+
+
+data|mangaChapters|edges[1]|node|slug = 190051380671563298 1-1 глава
+data|mangaChapters|edges[1]|node|number
+data|mangaChapters|edges[1]|node|volume
+data|mangaChapters|edges[1]|node|createdAt
+
+

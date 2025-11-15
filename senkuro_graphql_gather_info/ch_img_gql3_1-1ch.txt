@@ -1,0 +1,3 @@
+data|mangaChapter|pages[0]|image|original|url = https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/2715619ba0e2987b7c0696f6dbac28075d31404d_190051352435508784.jpeg
+
+data|mangaChapter|pages[0]|image|compress|url = https://shiro.senkuro.net/Lqzx-vcEI6vFk04GzK_ICUXmubuIJqRrEbC_CEaGlUY/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzI3MTU2MTliYTBlMjk4N2I3YzA2OTZmNmRiYWMyODA3NWQzMTQwNGRfMTkwMDUxMzUyNDM1NTA4Nzg0LmpwZWc.jpeg

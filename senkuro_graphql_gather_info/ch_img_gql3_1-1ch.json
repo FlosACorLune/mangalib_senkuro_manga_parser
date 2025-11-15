@@ -1,0 +1,526 @@
+{
+    "data": {
+        "mangaChapter": {
+            "id": "TUFOR0FfQ0hBUFRFUjoxOTAwNTEzODA2NzE1NjMyOTg",
+            "branchId": "TUFOR0FfQlJBTkNIOjE5MDA1MTI4MTY4NjA1NDQzMA",
+            "teamIds": [
+                "VEVBTTo0NTI0MTQ4MzQxMzk3MTM0OQ"
+            ],
+            "slug": "190051380671563298",
+            "prevSlug": null,
+            "nextSlug": "190051360857671202",
+            "name": null,
+            "number": "1",
+            "volume": "1",
+            "__typename": "MangaChapter",
+            "pages": [
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODM0MDUxNA",
+                    "number": 1,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzUyNDM1NTA4Nzg0",
+                        "original": {
+                            "height": 10100,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/2715619ba0e2987b7c0696f6dbac28075d31404d_190051352435508784.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10246,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/Lqzx-vcEI6vFk04GzK_ICUXmubuIJqRrEbC_CEaGlUY/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzI3MTU2MTliYTBlMjk4N2I3YzA2OTZmNmRiYWMyODA3NWQzMTQwNGRfMTkwMDUxMzUyNDM1NTA4Nzg0LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODQwNjA1MA",
+                    "number": 2,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzUzNTQyODA1MDQw",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/5cb6f2c95b46632e4f79a38c8f5eff141f09f5ba_190051353542805040.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/NpAvKggqMeM5RQ02T86U9LVQhWx-3FmlPj048th1_SM/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzVjYjZmMmM5NWI0NjYzMmU0Zjc5YTM4YzhmNWVmZjE0MWYwOWY1YmFfMTkwMDUxMzUzNTQyODA1MDQwLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODQ3MTU4Ng",
+                    "number": 3,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzU1MjIwNTI2NjQw",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/db5ee5f1f06cd7183899a0b9e4ca574195d75600_190051355220526640.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/Dzk008fOieQHOvt03-2Bc35Xb3A7RPA_9rLjj3djauo/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2RiNWVlNWYxZjA2Y2Q3MTgzODk5YTBiOWU0Y2E1NzQxOTVkNzU2MDBfMTkwMDUxMzU1MjIwNTI2NjQwLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODUzNzEyMg",
+                    "number": 4,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzU2NTEyMzcyMjcy",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/71798093cdd68931cd38c3e66c6101ca6060ec65_190051356512372272.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/5K0w6V_s2yhm6fa5dtJLq18fcCF3eHRc4GbAR5-WV5M/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzcxNzk4MDkzY2RkNjg5MzFjZDM4YzNlNjZjNjEwMWNhNjA2MGVjNjVfMTkwMDUxMzU2NTEyMzcyMjcyLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODYwMjY1OA",
+                    "number": 5,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzU3NjcwMDAwMTc2",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/4811db3dc557ad068eac4559274bbe6441a9ca9f_190051357670000176.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/OwsUqwJXcVYs3fcEbXuVaXXzE-G7-28N8IvTSTUj9yo/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzQ4MTFkYjNkYzU1N2FkMDY4ZWFjNDU1OTI3NGJiZTY0NDFhOWNhOWZfMTkwMDUxMzU3NjcwMDAwMTc2LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODY2ODE5NA",
+                    "number": 6,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzU5MTEyODQwNzUy",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/cda660bbb90a4526fad3a819ba6ed978ab4a25ed_190051359112840752.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/aiPY8U8MralcKW8ECQi5zWdKekOCclW3-CGt3_EVEbw/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2NkYTY2MGJiYjkwYTQ1MjZmYWQzYTgxOWJhNmVkOTc4YWI0YTI1ZWRfMTkwMDUxMzU5MTEyODQwNzUyLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODczMzczMA",
+                    "number": 7,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzYwMzU0MzU0NzM2",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/18360328f348964ec487b389c41dfc894290ccd6_190051360354354736.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/sKRm-PV8-VNLHsXksy_0eORBlrxXttO9ZcVRxKgHKxY/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzE4MzYwMzI4ZjM0ODk2NGVjNDg3YjM4OWM0MWRmYzg5NDI5MGNjZDZfMTkwMDUxMzYwMzU0MzU0NzM2LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODc5OTI2Ng",
+                    "number": 8,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzYxODQ3NTI2OTYw",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/8fa3db5a6528cff59a6a6dd2e2d586a46b64c96c_190051361847526960.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/fNOS2jzp-pLAiDg7B2NxIxf1ziyhHY_SIwd2-K5lfmE/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzhmYTNkYjVhNjUyOGNmZjU5YTZhNmRkMmUyZDU4NmE0NmI2NGM5NmNfMTkwMDUxMzYxODQ3NTI2OTYwLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODg2NDgwMg",
+                    "number": 9,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzYzMjczNTkwMzIw",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/02356e3c8d406673840d56469dd51094a75b9131_190051363273590320.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/v-yX8SQ2nO4rend5n6E2-dH_4dGvXdSfWKXcFtTB2Zs/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzAyMzU2ZTNjOGQ0MDY2NzM4NDBkNTY0NjlkZDUxMDk0YTc1YjkxMzFfMTkwMDUxMzYzMjczNTkwMzIwLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODkzMDMzOA",
+                    "number": 10,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzY0Mjk3MDAwNDk2",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/a641e1a71c3615777cf630bcfe9bfc6b2092a468_190051364297000496.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/XXc9ao1jpUQEqg4S25pIXj8FclvAKgT8uPT4WS6gQCg/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2E2NDFlMWE3MWMzNjE1Nzc3Y2Y2MzBiY2ZlOWJmYzZiMjA5MmE0NjhfMTkwMDUxMzY0Mjk3MDAwNDk2LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4ODk5NTg3NA",
+                    "number": 11,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzY1NDg4MTgyODMy",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/e616ec2bffec79dfe4c31c91b5780f63aa92435d_190051365488182832.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/xbiaOu7vTF6ub2rafOxXwrQv3dZAsZrdV-ZA7py7fUs/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2U2MTZlYzJiZmZlYzc5ZGZlNGMzMWM5MWI1NzgwZjYzYWE5MjQzNWRfMTkwMDUxMzY1NDg4MTgyODMyLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTA2MTQxMA",
+                    "number": 12,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzY2NTc4NzAxODcy",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/594ab82033ffc527ddfdf101a39fbb0cd6822a98_190051366578701872.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/JAoqC-p3VVqHdGZnWgPejk2OBiDjbFOP-C7w0-3_A_E/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzU5NGFiODIwMzNmZmM1MjdkZGZkZjEwMWEzOWZiYjBjZDY4MjJhOThfMTkwMDUxMzY2NTc4NzAxODcyLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTEyNjk0Ng",
+                    "number": 13,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzY3ODIwMjE1ODU2",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/02035a7a74f33346a76637926e39ebe59cc98ca0_190051367820215856.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/1LC5U9MLVibUs9Hxk6oiglz0NAOnMLRLo0EJ0ipIk80/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzAyMDM1YTdhNzRmMzMzNDZhNzY2Mzc5MjZlMzllYmU1OWNjOThjYTBfMTkwMDUxMzY3ODIwMjE1ODU2LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTE5MjQ4Mg",
+                    "number": 14,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzY5MTI4ODM4NzA0",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/3894523a44571a0932159093e5684154709be6c0_190051369128838704.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/rhcOT-jHQ7sfmL8QCXI8mt-CiemfB-xLX9soMTr2Iy0/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzM4OTQ1MjNhNDQ1NzFhMDkzMjE1OTA5M2U1Njg0MTU0NzA5YmU2YzBfMTkwMDUxMzY5MTI4ODM4NzA0LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTI1ODAxOA",
+                    "number": 15,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzcwMTM1NDcxNjY0",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/72f343433a317d2a6b108d618f4cb40ca6d826db_190051370135471664.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/9l47YB4FoLzMVeAu-cdz1r2vg50lNwf9rRoy1MYgs9Y/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzcyZjM0MzQzM2EzMTdkMmE2YjEwOGQ2MThmNGNiNDBjYTZkODI2ZGJfMTkwMDUxMzcwMTM1NDcxNjY0LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTMyMzU1NA",
+                    "number": 16,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzcxMzQzNDMxMjE2",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/1e87954b4bb69230d859a9ec7d101c4382486642_190051371343431216.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/2qp_4jvrdufTUCvauybU7zkl0jQ0_6usuSFcab9vbqY/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzFlODc5NTRiNGJiNjkyMzBkODU5YTllYzdkMTAxYzQzODI0ODY2NDJfMTkwMDUxMzcxMzQzNDMxMjE2LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTM4OTA5MA",
+                    "number": 17,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzcyNjE4NDk5NjMy",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/0647b008fe8b0386f9e73439b783b7f3b2037ebe_190051372618499632.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/2wHg1CAbPFkhTVg4ObAc_P7Yu6iATI1NwdMzwwfzxK0/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzA2NDdiMDA4ZmU4YjAzODZmOWU3MzQzOWI3ODNiN2YzYjIwMzdlYmVfMTkwMDUxMzcyNjE4NDk5NjMyLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTQ1NDYyNg",
+                    "number": 18,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzc0MTc4NzgwNzIw",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/4b149dfd81366a430f429386123bfd0670908480_190051374178780720.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/PT2fBqhCuJHmXheGBHxZYFc0YNm5ELqgJa_T4o8yVFM/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzRiMTQ5ZGZkODEzNjZhNDMwZjQyOTM4NjEyM2JmZDA2NzA5MDg0ODBfMTkwMDUxMzc0MTc4NzgwNzIwLmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTUyMDE2Mg",
+                    "number": 19,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzc1NDAzNTE3NDg4",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/d92419a1eda376854b8a9dcc7b1fa859df3b2c3e_190051375403517488.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/jQbWmoedAI_9ocTiKwq-uhN3aEG41RaCPZp5heyxkXE/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2Q5MjQxOWExZWRhMzc2ODU0YjhhOWRjYzdiMWZhODU5ZGYzYjJjM2VfMTkwMDUxMzc1NDAzNTE3NDg4LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTU4NTY5OA",
+                    "number": 20,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzc2Njc4NTg1OTA0",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/d7b95e77b197fe4e4cbfecd23d6bb1cb2227b81a_190051376678585904.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/Vr8c8fO1mya3KW3rNr-fPITOHRvFI89xLIWztO4WKZY/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2Q3Yjk1ZTc3YjE5N2ZlNGU0Y2JmZWNkMjNkNmJiMWNiMjIyN2I4MWFfMTkwMDUxMzc2Njc4NTg1OTA0LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTY1MTIzNA",
+                    "number": 21,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzc3NzY5MTA0OTQ0",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/fac9419033dcc891ec9d3f5748b68368036f4964_190051377769104944.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/zMRC7yfeEqYwxXXqe6swtOodRIv-w1PfpPZhcpb4KJw/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2ZhYzk0MTkwMzNkY2M4OTFlYzlkM2Y1NzQ4YjY4MzY4MDM2ZjQ5NjRfMTkwMDUxMzc3NzY5MTA0OTQ0LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTcxNjc3MA",
+                    "number": 22,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzc4ODU5NjIzOTg0",
+                        "original": {
+                            "height": 10000,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/b8fda04ff630de07658ecaf5412fd0084ef252cc_190051378859623984.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 10144,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/st_sRyKeNbqDbE8WzfP2dfmFumw5Fi2ziGwd-QI0_I0/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwL2I4ZmRhMDRmZjYzMGRlMDc2NThlY2FmNTQxMmZkMDA4NGVmMjUyY2NfMTkwMDUxMzc4ODU5NjIzOTg0LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                },
+                {
+                    "id": "TUFOR0FfQ0hBUFRFUl9QQUdFOjE5MDA1MTM4MDY4OTc4MjMwNg",
+                    "number": 23,
+                    "comments": 0,
+                    "image": {
+                        "id": "SU1BR0U6MTkwMDUxMzgwNDAzMTI3ODU2",
+                        "original": {
+                            "height": 12649,
+                            "width": 690,
+                            "url": "https://mirai.senkuro.net/manga-chapters/190051281685988894/190051281686054430/4e074facfb7d4f0d7682af2b1d6a7084d35bc3eb_190051380403127856.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "compress": {
+                            "height": 12832,
+                            "width": 700,
+                            "url": "https://shiro.senkuro.net/L134nWVRi7_kKY76aeMZB-2samV_1pkLU7UkQNThQrI/rs:fit:700:0/q:75/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS1jaGFwdGVycy8xOTAwNTEyODE2ODU5ODg4OTQvMTkwMDUxMjgxNjg2MDU0NDMwLzRlMDc0ZmFjZmI3ZDRmMGQ3NjgyYWYyYjFkNmE3MDg0ZDM1YmMzZWJfMTkwMDUxMzgwNDAzMTI3ODU2LmpwZWc.jpeg",
+                            "__typename": "ImageSize"
+                        },
+                        "__typename": "Image"
+                    },
+                    "__typename": "MangaChapterPage"
+                }
+            ]
+        }
+    }
+}

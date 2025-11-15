@@ -1,0 +1,18 @@
+data|manga|slug
+data|manga|titles[0]|content
+data|manga|chapters - не стоит брать поскольку он отображает project-stats__inner. А на самом деле глав может быть больше. Пример: https://senkuro.me/manga/barbarian-s-adventure-in-a-fantasy-world/chapters
+data|manga|branches[0]|chapters 
+data|manga|branches[0]|status 
+data|manga|branches[0]|translitionStatus 
+data|manga|translitionStatus 
+data|manga|branches[0]|id
+
+сервера:
+https://shiro.senkuro.net - compressed(q=75) quality 
+https://mirai.senkuro.net/ - original quality
+Примечание: разница между ними довольно сильно видна если приблизить но если смотреть отдаленно(обычно) то незаметно
+разница между ними в размере файлв составляет ~2x раза 
+
+
+190051281685988894 первые цифры это ID манги можно получить в gql5+ node
+

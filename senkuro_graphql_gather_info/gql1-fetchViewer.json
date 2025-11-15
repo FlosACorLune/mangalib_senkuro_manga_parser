@@ -1,0 +1,23 @@
+{
+    "data": {
+        "viewer": {
+            "sessionId": null,
+            "country": "KZ",
+            "user": null,
+            "permissions": {
+                "canBeGod": false,
+                "canViewModeration": false,
+                "canViewTeamDashboard": false,
+                "canViewUserDashboard": false,
+                "canViewRoles": false,
+                "canSystemCreate": false,
+                "canSystemUpload": false,
+                "canUploadAnimationAvatar": false,
+                "canDisableAdvertisement": false,
+                "__typename": "ViewerPermissions"
+            },
+            "participant": [],
+            "__typename": "ViewerRoot"
+        }
+    }
+}
