@@ -1,0 +1,4 @@
+mangalib site-id: 1; 
+slashlib site-id: 2
+ranobelib site-id: 3
+

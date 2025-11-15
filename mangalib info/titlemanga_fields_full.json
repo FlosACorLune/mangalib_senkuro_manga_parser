@@ -1,0 +1,279 @@
+{
+    "data": {
+        "id": 208090,
+        "name": "Chihaya re:start!",
+        "rus_name": "Чихая ре:старт!",
+        "eng_name": "Chihaya re:start!",
+        "otherNames": [
+            "チハヤリスタート！"
+        ],
+        "model": "manga",
+        "slug": "chihaya-restart",
+        "slug_url": "208090--chihaya-restart",
+        "cover": {
+            "filename": "6db477c1-e2bd-4e20-a188-0fee4a77787f",
+            "thumbnail": "https://cover.imglib.info/uploads/cover/chihaya-restart/cover/6db477c1-e2bd-4e20-a188-0fee4a77787f_thumb.jpg",
+            "default": "https://cover.imglib.info/uploads/cover/chihaya-restart/cover/6db477c1-e2bd-4e20-a188-0fee4a77787f.jpg",
+            "md": "https://cover.imglib.info/uploads/cover/chihaya-restart/cover/6db477c1-e2bd-4e20-a188-0fee4a77787f.jpg"
+        },
+        "background": {
+            "filename": "JpTKismUme5m",
+            "url": "https://cover.imglib.info/uploads/cover/chihaya-restart/background/JpTKismUme5m"
+        },
+        "ageRestriction": {
+            "id": 3,
+            "label": "16+"
+        },
+        "site": 1,
+        "type": {
+            "id": 1,
+            "label": "Манга"
+        },
+        "summary": "Чихая Сакуразака — девушка, единственная особенность которой — быстрота ног. Чихая погружается в мир легкой атлетики, встречая в средней школе Мио Кошимизу, которая становится её соперницей, и обещает выиграть против неё в межшкольных соревнованиях. История возрождения спортивной девушки из хикикомори.",
+        "close_view": 0,
+        "releaseDate": "2024",
+        "views": {
+            "total": 6838,
+            "short": "6.8 K",
+            "formated": "6 838"
+        },
+        "rating": {
+            "average": "8.72",
+            "averageFormated": "8.7",
+            "votes": 32,
+            "votesFormated": "32",
+            "user": 0
+        },
+        "is_licensed": false,
+        "moderated": {
+            "id": 1,
+            "label": "Принято модерацией"
+        },
+        "teams": [
+            {
+                "id": 51683,
+                "slug": "laemwa-ai",
+                "slug_url": "51683--laemwa-ai",
+                "model": "team",
+                "name": "laemwa ai",
+                "cover": {
+                    "filename": "xasdb9XCX3wC",
+                    "thumbnail": "https://cover.imglib.info/uploads/team/laemwa-ai/cover/xasdb9XCX3wC_thumb.jpg",
+                    "default": "https://cover.imglib.info/uploads/team/laemwa-ai/cover/xasdb9XCX3wC_250x350.jpg",
+                    "md": "https://cover.imglib.info/uploads/team/laemwa-ai/cover/xasdb9XCX3wC_250x350.jpg"
+                },
+                "details": {
+                    "branch_id": null,
+                    "is_active": false,
+                    "subscriptions_count": null
+                },
+                "donate_enabled": false
+            }
+        ],
+        "genres": [
+            {
+                "id": 43,
+                "name": "Драма",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 47,
+                "name": "Комедия",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 52,
+                "name": "Повседневность",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 63,
+                "name": "Спорт",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 70,
+                "name": "Школа",
+                "adult": false,
+                "alert": false
+            }
+        ],
+        "tags": [
+            {
+                "id": 166,
+                "name": "Хикикомори",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 234,
+                "name": "Будущее",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 247,
+                "name": "Дружба",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 280,
+                "name": "Япония",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 294,
+                "name": "ГГ женщина",
+                "adult": false,
+                "alert": false
+            },
+            {
+                "id": 334,
+                "name": "Спортивное тело",
+                "adult": false,
+                "alert": false
+            }
+        ],
+        "publisher": [
+            {
+                "id": 31,
+                "slug": "houbunsha",
+                "slug_url": "31--houbunsha",
+                "model": "publisher",
+                "name": "Houbunsha",
+                "rus_name": null,
+                "cover": {
+                    "filename": null,
+                    "thumbnail": "https://cover.imglib.info/static/images/placeholders/user_avatar.png",
+                    "default": "https://cover.imglib.info/static/images/placeholders/user_avatar.png",
+                    "md": "https://cover.imglib.info/static/images/placeholders/user_avatar.png"
+                },
+                "subscription": {
+                    "is_subscribed": false,
+                    "source_type": "publisher",
+                    "source_id": 31,
+                    "relation": null
+                }
+            }
+        ],
+        "franchise": [],
+        "authors": [
+            {
+                "id": 73653,
+                "slug": "takeuchi-hollow",
+                "slug_url": "73653--takeuchi-hollow",
+                "model": "people",
+                "name": "TAKEUCHI Hollow",
+                "rus_name": null,
+                "alt_name": null,
+                "cover": {
+                    "filename": null,
+                    "thumbnail": "https://cover.imglib.info/static/images/placeholders/user_avatar.png",
+                    "default": "https://cover.imglib.info/static/images/placeholders/user_avatar.png",
+                    "md": "https://cover.imglib.info/static/images/placeholders/user_avatar.png"
+                },
+                "subscription": {
+                    "is_subscribed": false,
+                    "source_type": "people",
+                    "source_id": 73653,
+                    "relation": null
+                },
+                "confirmed": false,
+                "user_id": 5034
+            }
+        ],
+        "user": {
+            "id": 5202177,
+            "username": "камнерез",
+            "avatar": {
+                "filename": "fa1b5bbf-8eb4-4430-8ab6-ec438c7e1080.jpg",
+                "url": "https://cover.imglib.info/uploads/users/5202177/fa1b5bbf-8eb4-4430-8ab6-ec438c7e1080.jpg"
+            },
+            "last_online_at": null,
+            "premium": {
+                "enabled": false
+            }
+        },
+        "content_marking": [],
+        "metadata": {
+            "close_comments": 0,
+            "comments_disabled": {
+                "media": false,
+                "content": false
+            },
+            "count": {
+                "branches": 0,
+                "characters": {
+                    "Main": 0,
+                    "Supporting": 0
+                },
+                "reviews": {
+                    "neutral": 0,
+                    "positive": 1,
+                    "negative": 0,
+                    "all": 1
+                },
+                "relations": 0,
+                "people": 0,
+                "covers": 1
+            }
+        },
+        "status": {
+            "id": 1,
+            "label": "Онгоинг"
+        },
+        "items_count": {
+            "uploaded": 25,
+            "total": 0
+        },
+        "scanlateStatus": {
+            "id": 1,
+            "label": "Продолжается"
+        },
+        "artists": [
+            {
+                "id": 73653,
+                "slug": "takeuchi-hollow",
+                "slug_url": "73653--takeuchi-hollow",
+                "model": "people",
+                "name": "TAKEUCHI Hollow",
+                "rus_name": null,
+                "alt_name": null,
+                "cover": {
+                    "filename": null,
+                    "thumbnail": "https://cover.imglib.info/static/images/placeholders/user_avatar.png",
+                    "default": "https://cover.imglib.info/static/images/placeholders/user_avatar.png",
+                    "md": "https://cover.imglib.info/static/images/placeholders/user_avatar.png"
+                },
+                "subscription": {
+                    "is_subscribed": false,
+                    "source_type": "people",
+                    "source_id": 73653,
+                    "relation": null
+                },
+                "confirmed": false,
+                "user_id": 5034
+            }
+        ],
+        "format": [
+            {
+                "id": 6,
+                "name": "Веб",
+                "pivot": {
+                    "manga_id": 208090,
+                    "format_id": 6
+                }
+            }
+        ],
+        "releaseDateString": "2024 г."
+    },
+    "meta": {
+        "country": "KZ"
+    }
+}

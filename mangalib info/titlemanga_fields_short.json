@@ -1,0 +1,52 @@
+{
+    "data": {
+        "id": 208090,
+        "name": "Chihaya re:start!",
+        "rus_name": "Чихая ре:старт!",
+        "eng_name": "Chihaya re:start!",
+        "model": "manga",
+        "slug": "chihaya-restart",
+        "slug_url": "208090--chihaya-restart",
+        "cover": {
+            "filename": "6db477c1-e2bd-4e20-a188-0fee4a77787f",
+            "thumbnail": "https://cover.imglib.info/uploads/cover/chihaya-restart/cover/6db477c1-e2bd-4e20-a188-0fee4a77787f_thumb.jpg",
+            "default": "https://cover.imglib.info/uploads/cover/chihaya-restart/cover/6db477c1-e2bd-4e20-a188-0fee4a77787f.jpg",
+            "md": "https://cover.imglib.info/uploads/cover/chihaya-restart/cover/6db477c1-e2bd-4e20-a188-0fee4a77787f.jpg"
+        },
+        "background": {
+            "filename": "JpTKismUme5m",
+            "url": "https://cover.imglib.info/uploads/cover/chihaya-restart/background/JpTKismUme5m"
+        },
+        "ageRestriction": {
+            "id": 3,
+            "label": "16+"
+        },
+        "site": 1,
+        "type": {
+            "id": 1,
+            "label": "Манга"
+        },
+        "is_licensed": false,
+        "moderated": {
+            "id": 1,
+            "label": "Принято модерацией"
+        },
+        "content_marking": [],
+        "status": {
+            "id": 1,
+            "label": "Онгоинг"
+        },
+        "items_count": {
+            "uploaded": 25,
+            "total": 0
+        },
+        "scanlateStatus": {
+            "id": 1,
+            "label": "Продолжается"
+        },
+        "releaseDateString": "2024 г."
+    },
+    "meta": {
+        "country": "KZ"
+    }
+}
